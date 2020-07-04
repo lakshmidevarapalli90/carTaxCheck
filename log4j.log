@@ -1,0 +1,369 @@
+2020-07-04 13:40:21 INFO  TestFreeCarCheck:25 - Running firefox webdriver with Driver Path:- src/test/resources/drivers/geckodriver.exe
+2020-07-04 13:40:28 INFO  TestFreeCarCheck:36 - Browser launched with carTaxCheck URL
+2020-07-04 13:40:28 INFO  ReadVehicleRegNum:51 - Regnum [DN09HRM, BW57 BOW, KT17DLX, SG18 HTN] list created
+2020-07-04 13:40:29 INFO  TestFreeCarCheck:45 - 
+2020-07-04 13:40:29 INFO  TestFreeCarCheck:48 - BMW
+2020-07-04 13:40:29 INFO  TestFreeCarCheck:51 - 320D Se
+2020-07-04 13:40:29 INFO  TestFreeCarCheck:54 - Black
+2020-07-04 13:40:30 INFO  TestFreeCarCheck:57 - 2009
+2020-07-04 13:43:58 INFO  TestFreeCarCheck:25 - Running firefox webdriver with Driver Path:- src/test/resources/drivers/geckodriver.exe
+2020-07-04 13:44:03 INFO  TestFreeCarCheck:36 - Browser launched with carTaxCheck URL
+2020-07-04 13:44:03 INFO  ReadVehicleRegNum:51 - Regnum [DN09HRM, BW57 BOW, KT17DLX, SG18 HTN] list created
+2020-07-04 13:44:04 INFO  TestFreeCarCheck:45 - DN09HRM
+2020-07-04 13:44:04 INFO  TestFreeCarCheck:48 - BMW
+2020-07-04 13:44:04 INFO  TestFreeCarCheck:51 - 320D Se
+2020-07-04 13:44:04 INFO  TestFreeCarCheck:54 - Black
+2020-07-04 13:44:04 INFO  TestFreeCarCheck:57 - 2009
+2020-07-04 13:51:53 INFO  TestFreeCarCheck:25 - Running firefox webdriver with Driver Path:- src/test/resources/drivers/geckodriver.exe
+2020-07-04 13:51:59 INFO  TestFreeCarCheck:36 - Browser launched with carTaxCheck URL
+2020-07-04 13:51:59 INFO  ReadVehicleRegNum:51 - Regnum [DN09HRM, BW57 BOW, KT17DLX, SG18 HTN] list created
+2020-07-04 13:52:00 INFO  TestFreeCarCheck:45 - DN09HRM
+2020-07-04 13:52:00 INFO  TestFreeCarCheck:48 - BMW
+2020-07-04 13:52:00 INFO  TestFreeCarCheck:51 - 320D Se
+2020-07-04 13:52:01 INFO  TestFreeCarCheck:54 - Black
+2020-07-04 13:52:01 INFO  TestFreeCarCheck:57 - 2009
+2020-07-04 14:52:24 INFO  ReadVehicleRegNum:29 - SG18HTN	
+2020-07-04 14:52:24 INFO  ReadVehicleRegNum:29 - Volkswagen	
+2020-07-04 14:52:24 INFO  ReadVehicleRegNum:29 - Golf Se Navigation Tsi Evo	
+2020-07-04 14:52:24 INFO  ReadVehicleRegNum:29 - White	
+2020-07-04 14:52:24 INFO  ReadVehicleRegNum:29 - 2018	
+2020-07-04 14:52:24 INFO  ReadVehicleRegNum:29 - DN09HRM	
+2020-07-04 14:52:24 INFO  ReadVehicleRegNum:29 - BMW	
+2020-07-04 14:52:24 INFO  ReadVehicleRegNum:29 - 320D Se	
+2020-07-04 14:52:24 INFO  ReadVehicleRegNum:29 - Black	
+2020-07-04 14:52:24 INFO  ReadVehicleRegNum:29 - 2009	
+2020-07-04 14:52:24 INFO  ReadVehicleRegNum:29 - BW57BOF	
+2020-07-04 14:52:24 INFO  ReadVehicleRegNum:29 - Toyota	
+2020-07-04 14:52:24 INFO  ReadVehicleRegNum:29 - Yaris T2	
+2020-07-04 14:52:24 INFO  ReadVehicleRegNum:29 - Black	
+2020-07-04 14:52:24 INFO  ReadVehicleRegNum:29 - 2010	
+2020-07-04 14:52:24 INFO  ReadVehicleRegNum:29 - KT17DLX	
+2020-07-04 14:52:24 INFO  ReadVehicleRegNum:29 - Skoda	
+2020-07-04 14:52:24 INFO  ReadVehicleRegNum:29 - Superb Sportline Tdi S-A	
+2020-07-04 14:52:24 INFO  ReadVehicleRegNum:29 - White	
+2020-07-04 14:52:24 INFO  ReadVehicleRegNum:29 - 2017	
+2020-07-04 14:52:49 INFO  ReadVehicleRegNum:29 - SG18HTN	
+2020-07-04 14:52:49 INFO  ReadVehicleRegNum:29 - Volkswagen	
+2020-07-04 14:52:49 INFO  ReadVehicleRegNum:29 - Golf Se Navigation Tsi Evo	
+2020-07-04 14:52:49 INFO  ReadVehicleRegNum:29 - White	
+2020-07-04 14:52:49 INFO  ReadVehicleRegNum:29 - 2018	
+2020-07-04 14:52:49 INFO  ReadVehicleRegNum:29 - DN09HRM	
+2020-07-04 14:52:49 INFO  ReadVehicleRegNum:29 - BMW	
+2020-07-04 14:52:49 INFO  ReadVehicleRegNum:29 - 320D Se	
+2020-07-04 14:52:49 INFO  ReadVehicleRegNum:29 - Black	
+2020-07-04 14:52:49 INFO  ReadVehicleRegNum:29 - 2009	
+2020-07-04 14:52:49 INFO  ReadVehicleRegNum:29 - BW57BOF	
+2020-07-04 14:52:49 INFO  ReadVehicleRegNum:29 - Toyota	
+2020-07-04 14:52:49 INFO  ReadVehicleRegNum:29 - Yaris T2	
+2020-07-04 14:52:49 INFO  ReadVehicleRegNum:29 - Black	
+2020-07-04 14:52:49 INFO  ReadVehicleRegNum:29 - 2010	
+2020-07-04 14:52:49 INFO  ReadVehicleRegNum:29 - KT17DLX	
+2020-07-04 14:52:49 INFO  ReadVehicleRegNum:29 - Skoda	
+2020-07-04 14:52:49 INFO  ReadVehicleRegNum:29 - Superb Sportline Tdi S-A	
+2020-07-04 14:52:49 INFO  ReadVehicleRegNum:29 - White	
+2020-07-04 14:52:49 INFO  ReadVehicleRegNum:29 - 2017	
+2020-07-04 14:53:14 INFO  ReadVehicleRegNum:30 - SG18HTN	
+2020-07-04 14:53:14 INFO  ReadVehicleRegNum:30 - Volkswagen	
+2020-07-04 14:53:14 INFO  ReadVehicleRegNum:30 - Golf Se Navigation Tsi Evo	
+2020-07-04 14:53:14 INFO  ReadVehicleRegNum:30 - White	
+2020-07-04 14:53:14 INFO  ReadVehicleRegNum:30 - 2018	
+2020-07-04 14:53:14 INFO  ReadVehicleRegNum:30 - DN09HRM	
+2020-07-04 14:53:14 INFO  ReadVehicleRegNum:30 - BMW	
+2020-07-04 14:53:14 INFO  ReadVehicleRegNum:30 - 320D Se	
+2020-07-04 14:53:14 INFO  ReadVehicleRegNum:30 - Black	
+2020-07-04 14:53:14 INFO  ReadVehicleRegNum:30 - 2009	
+2020-07-04 14:53:14 INFO  ReadVehicleRegNum:30 - BW57BOF	
+2020-07-04 14:53:14 INFO  ReadVehicleRegNum:30 - Toyota	
+2020-07-04 14:53:14 INFO  ReadVehicleRegNum:30 - Yaris T2	
+2020-07-04 14:53:14 INFO  ReadVehicleRegNum:30 - Black	
+2020-07-04 14:53:14 INFO  ReadVehicleRegNum:30 - 2010	
+2020-07-04 14:53:14 INFO  ReadVehicleRegNum:30 - KT17DLX	
+2020-07-04 14:53:14 INFO  ReadVehicleRegNum:30 - Skoda	
+2020-07-04 14:53:14 INFO  ReadVehicleRegNum:30 - Superb Sportline Tdi S-A	
+2020-07-04 14:53:14 INFO  ReadVehicleRegNum:30 - White	
+2020-07-04 14:53:14 INFO  ReadVehicleRegNum:30 - 2017	
+2020-07-04 15:13:36 INFO  TestFreeCarCheck:25 - Running firefox webdriver with Driver Path:- src/test/resources/drivers/geckodriver.exe
+2020-07-04 15:13:46 INFO  TestFreeCarCheck:36 - Browser launched with carTaxCheck URL
+2020-07-04 15:13:46 INFO  ReadVehicleRegNum:51 - Regnum [DN09HRM, BW57 BOW, KT17DLX, SG18 HTN] list created
+2020-07-04 15:13:46 INFO  TestFreeCarCheck:41 - DN09HRM
+2020-07-04 15:13:46 INFO  TestFreeCarCheck:41 - BW57 BOW
+2020-07-04 15:13:46 INFO  TestFreeCarCheck:41 - KT17DLX
+2020-07-04 15:13:46 INFO  TestFreeCarCheck:41 - SG18 HTN
+2020-07-04 15:13:47 INFO  TestFreeCarCheck:49 - DN09HRM
+2020-07-04 15:13:47 INFO  TestFreeCarCheck:52 - BMW
+2020-07-04 15:13:47 INFO  TestFreeCarCheck:55 - 320D Se
+2020-07-04 15:13:47 INFO  TestFreeCarCheck:58 - Black
+2020-07-04 15:13:47 INFO  TestFreeCarCheck:61 - 2009
+2020-07-04 15:15:29 INFO  TestFreeCarCheck:25 - Running firefox webdriver with Driver Path:- src/test/resources/drivers/geckodriver.exe
+2020-07-04 15:15:34 INFO  TestFreeCarCheck:36 - Browser launched with carTaxCheck URL
+2020-07-04 15:15:34 INFO  ReadVehicleRegNum:51 - Regnum [DN09HRM, BW57 BOW, KT17DLX, SG18 HTN] list created
+2020-07-04 15:15:35 INFO  TestFreeCarCheck:46 - 
+2020-07-04 15:15:35 INFO  TestFreeCarCheck:49 - BMW
+2020-07-04 15:15:35 INFO  TestFreeCarCheck:52 - 320D Se
+2020-07-04 15:15:35 INFO  TestFreeCarCheck:55 - Black
+2020-07-04 15:15:35 INFO  TestFreeCarCheck:58 - 2009
+2020-07-04 15:16:24 INFO  TestFreeCarCheck:25 - Running firefox webdriver with Driver Path:- src/test/resources/drivers/geckodriver.exe
+2020-07-04 15:16:30 INFO  TestFreeCarCheck:36 - Browser launched with carTaxCheck URL
+2020-07-04 15:16:30 INFO  ReadVehicleRegNum:51 - Regnum [DN09HRM, BW57 BOW, KT17DLX, SG18 HTN] list created
+2020-07-04 15:16:31 INFO  TestFreeCarCheck:47 - 
+2020-07-04 15:16:31 INFO  TestFreeCarCheck:50 - BMW
+2020-07-04 15:16:31 INFO  TestFreeCarCheck:53 - 320D Se
+2020-07-04 15:16:31 INFO  TestFreeCarCheck:56 - Black
+2020-07-04 15:16:31 INFO  TestFreeCarCheck:59 - 2009
+2020-07-04 15:17:32 INFO  TestFreeCarCheck:25 - Running firefox webdriver with Driver Path:- src/test/resources/drivers/geckodriver.exe
+2020-07-04 15:17:37 INFO  ReadVehicleRegNum:51 - Regnum [DN09HRM, BW57 BOW, KT17DLX, SG18 HTN] list created
+2020-07-04 15:17:38 INFO  TestFreeCarCheck:42 - Browser launched with carTaxCheck URL
+2020-07-04 15:17:38 INFO  TestFreeCarCheck:50 - DN09HRM
+2020-07-04 15:17:38 INFO  TestFreeCarCheck:53 - BMW
+2020-07-04 15:17:38 INFO  TestFreeCarCheck:56 - 320D Se
+2020-07-04 15:17:38 INFO  TestFreeCarCheck:59 - Black
+2020-07-04 15:17:39 INFO  TestFreeCarCheck:62 - 2009
+2020-07-04 15:17:39 INFO  TestFreeCarCheck:42 - Browser launched with carTaxCheck URL
+2020-07-04 15:17:39 INFO  TestFreeCarCheck:50 - 
+2020-07-04 15:17:39 INFO  TestFreeCarCheck:53 - 
+2020-07-04 15:17:39 INFO  TestFreeCarCheck:56 - 
+2020-07-04 15:17:40 INFO  TestFreeCarCheck:59 - 
+2020-07-04 15:17:40 INFO  TestFreeCarCheck:62 - 
+2020-07-04 15:17:40 INFO  TestFreeCarCheck:42 - Browser launched with carTaxCheck URL
+2020-07-04 15:17:41 INFO  TestFreeCarCheck:50 - KT17DLX
+2020-07-04 15:17:41 INFO  TestFreeCarCheck:53 - Skoda
+2020-07-04 15:17:41 INFO  TestFreeCarCheck:56 - Superb Sportline Tdi S-A
+2020-07-04 15:17:41 INFO  TestFreeCarCheck:59 - White
+2020-07-04 15:17:41 INFO  TestFreeCarCheck:62 - 2017
+2020-07-04 15:17:41 INFO  TestFreeCarCheck:42 - Browser launched with carTaxCheck URL
+2020-07-04 15:17:42 INFO  TestFreeCarCheck:50 - SG18HTN
+2020-07-04 15:17:42 INFO  TestFreeCarCheck:53 - Volkswagen
+2020-07-04 15:17:42 INFO  TestFreeCarCheck:56 - Golf Se Navigation Tsi Evo
+2020-07-04 15:17:42 INFO  TestFreeCarCheck:59 - White
+2020-07-04 15:17:42 INFO  TestFreeCarCheck:62 - 2018
+2020-07-04 15:24:02 INFO  ReadVehicleRegNum:30 - SG18HTN	
+2020-07-04 15:24:02 INFO  ReadVehicleRegNum:30 - Volkswagen	
+2020-07-04 15:24:02 INFO  ReadVehicleRegNum:30 - Golf Se Navigation Tsi Evo	
+2020-07-04 15:24:02 INFO  ReadVehicleRegNum:30 - White	
+2020-07-04 15:24:02 INFO  ReadVehicleRegNum:30 - 2018	
+2020-07-04 15:24:02 INFO  ReadVehicleRegNum:30 - DN09HRM	
+2020-07-04 15:24:02 INFO  ReadVehicleRegNum:30 - BMW	
+2020-07-04 15:24:02 INFO  ReadVehicleRegNum:30 - 320D Se	
+2020-07-04 15:24:02 INFO  ReadVehicleRegNum:30 - Black	
+2020-07-04 15:24:02 INFO  ReadVehicleRegNum:30 - 2009	
+2020-07-04 15:24:02 INFO  ReadVehicleRegNum:30 - BW57BOF	
+2020-07-04 15:24:02 INFO  ReadVehicleRegNum:30 - Toyota	
+2020-07-04 15:24:02 INFO  ReadVehicleRegNum:30 - Yaris T2	
+2020-07-04 15:24:02 INFO  ReadVehicleRegNum:30 - Black	
+2020-07-04 15:24:02 INFO  ReadVehicleRegNum:30 - 2010	
+2020-07-04 15:24:02 INFO  ReadVehicleRegNum:30 - KT17DLX	
+2020-07-04 15:24:02 INFO  ReadVehicleRegNum:30 - Skoda	
+2020-07-04 15:24:02 INFO  ReadVehicleRegNum:30 - Superb Sportline Tdi S-A	
+2020-07-04 15:24:02 INFO  ReadVehicleRegNum:30 - White	
+2020-07-04 15:24:02 INFO  ReadVehicleRegNum:30 - 2017	
+2020-07-04 15:31:43 INFO  TestFreeCarCheck:26 - Running firefox webdriver with Driver Path:- src/test/resources/drivers/geckodriver.exe
+2020-07-04 15:31:47 INFO  ReadVehicleRegNum:51 - Regnum [DN09HRM, BW57 BOW, KT17DLX, SG18 HTN] list created
+2020-07-04 15:31:48 INFO  TestFreeCarCheck:41 - Browser launched with carTaxCheck URL
+2020-07-04 15:31:49 INFO  TestFreeCarCheck:66 - [, BMW, 320D Se, Black, 2009]
+2020-07-04 15:31:49 INFO  TestFreeCarCheck:41 - Browser launched with carTaxCheck URL
+2020-07-04 15:33:45 INFO  TestFreeCarCheck:26 - Running firefox webdriver with Driver Path:- src/test/resources/drivers/geckodriver.exe
+2020-07-04 15:33:50 INFO  ReadVehicleRegNum:51 - Regnum [DN09HRM, BW57 BOW, KT17DLX, SG18 HTN] list created
+2020-07-04 15:33:51 INFO  TestFreeCarCheck:41 - Browser launched with carTaxCheck URL
+2020-07-04 15:33:52 INFO  TestFreeCarCheck:66 - [, BMW, 320D Se, Black, 2009]
+2020-07-04 15:33:52 INFO  TestFreeCarCheck:41 - Browser launched with carTaxCheck URL
+2020-07-04 15:33:53 INFO  TestFreeCarCheck:66 - [, , , , ]
+2020-07-04 15:33:54 INFO  TestFreeCarCheck:41 - Browser launched with carTaxCheck URL
+2020-07-04 15:35:14 INFO  TestFreeCarCheck:26 - Running firefox webdriver with Driver Path:- src/test/resources/drivers/geckodriver.exe
+2020-07-04 15:35:20 INFO  ReadVehicleRegNum:51 - Regnum [DN09HRM, BW57 BOW, KT17DLX, SG18 HTN] list created
+2020-07-04 15:35:20 INFO  TestFreeCarCheck:41 - Browser launched with carTaxCheck URL
+2020-07-04 15:35:27 INFO  TestFreeCarCheck:66 - [DN09HRM, BMW, 320D Se, Black, 2009]
+2020-07-04 15:35:28 INFO  TestFreeCarCheck:41 - Browser launched with carTaxCheck URL
+2020-07-04 15:35:29 INFO  TestFreeCarCheck:66 - [, , , , ]
+2020-07-04 15:35:30 INFO  TestFreeCarCheck:41 - Browser launched with carTaxCheck URL
+2020-07-04 15:35:30 INFO  TestFreeCarCheck:66 - [KT17DLX, Skoda, Superb Sportline Tdi S-A, White, 2017]
+2020-07-04 15:35:31 INFO  TestFreeCarCheck:41 - Browser launched with carTaxCheck URL
+2020-07-04 15:35:31 INFO  TestFreeCarCheck:66 - [SG18HTN, Volkswagen, Golf Se Navigation Tsi Evo, White, 2018]
+2020-07-04 15:36:12 INFO  TestFreeCarCheck:26 - Running firefox webdriver with Driver Path:- src/test/resources/drivers/geckodriver.exe
+2020-07-04 15:36:17 INFO  ReadVehicleRegNum:51 - Regnum [DN09HRM, BW57 BOW, KT17DLX, SG18 HTN] list created
+2020-07-04 15:36:17 INFO  TestFreeCarCheck:41 - Browser launched with carTaxCheck URL
+2020-07-04 15:36:18 INFO  TestFreeCarCheck:66 - [DN09HRM, BMW, 320D Se, Black, 2009]
+2020-07-04 15:36:19 INFO  TestFreeCarCheck:41 - Browser launched with carTaxCheck URL
+2020-07-04 15:36:20 INFO  TestFreeCarCheck:66 - [, , , , ]
+2020-07-04 15:36:20 INFO  TestFreeCarCheck:41 - Browser launched with carTaxCheck URL
+2020-07-04 15:36:21 INFO  TestFreeCarCheck:66 - [KT17DLX, Skoda, Superb Sportline Tdi S-A, White, 2017]
+2020-07-04 15:36:21 INFO  TestFreeCarCheck:41 - Browser launched with carTaxCheck URL
+2020-07-04 15:40:14 INFO  TestFreeCarCheck:29 - Running firefox webdriver with Driver Path:- src/test/resources/drivers/geckodriver.exe
+2020-07-04 15:40:18 INFO  ReadVehicleRegNum:51 - Regnum [DN09HRM, BW57 BOW, KT17DLX, SG18 HTN] list created
+2020-07-04 15:40:19 INFO  TestFreeCarCheck:44 - Browser launched with carTaxCheck URL
+2020-07-04 15:40:20 INFO  TestFreeCarCheck:70 - [, BMW, 320D Se, Black, 2009]
+2020-07-04 15:40:21 INFO  TestFreeCarCheck:44 - Browser launched with carTaxCheck URL
+2020-07-04 15:40:22 INFO  TestFreeCarCheck:70 - [, , , , ]
+2020-07-04 15:40:22 INFO  TestFreeCarCheck:44 - Browser launched with carTaxCheck URL
+2020-07-04 15:40:23 INFO  TestFreeCarCheck:70 - [, Skoda, Superb Sportline Tdi S-A, White, 2017]
+2020-07-04 15:40:23 INFO  TestFreeCarCheck:44 - Browser launched with carTaxCheck URL
+2020-07-04 15:40:24 INFO  TestFreeCarCheck:70 - [SG18HTN, Volkswagen, Golf Se Navigation Tsi Evo, White, 2018]
+2020-07-04 15:40:48 INFO  TestFreeCarCheck:29 - Running firefox webdriver with Driver Path:- src/test/resources/drivers/geckodriver.exe
+2020-07-04 15:40:52 INFO  ReadVehicleRegNum:51 - Regnum [DN09HRM, BW57 BOW, KT17DLX, SG18 HTN] list created
+2020-07-04 15:40:53 INFO  TestFreeCarCheck:44 - Browser launched with carTaxCheck URL
+2020-07-04 15:40:53 INFO  TestFreeCarCheck:70 - [DN09HRM, BMW, 320D Se, Black, 2009]
+2020-07-04 15:40:54 INFO  TestFreeCarCheck:44 - Browser launched with carTaxCheck URL
+2020-07-04 15:40:55 INFO  TestFreeCarCheck:70 - [, , , , ]
+2020-07-04 15:40:55 INFO  TestFreeCarCheck:44 - Browser launched with carTaxCheck URL
+2020-07-04 15:40:56 INFO  TestFreeCarCheck:70 - [KT17DLX, Skoda, Superb Sportline Tdi S-A, White, 2017]
+2020-07-04 15:40:56 INFO  TestFreeCarCheck:44 - Browser launched with carTaxCheck URL
+2020-07-04 15:40:57 INFO  TestFreeCarCheck:70 - [SG18HTN, Volkswagen, Golf Se Navigation Tsi Evo, White, 2018]
+2020-07-04 15:41:24 INFO  TestFreeCarCheck:29 - Running firefox webdriver with Driver Path:- src/test/resources/drivers/geckodriver.exe
+2020-07-04 15:41:29 INFO  ReadVehicleRegNum:51 - Regnum [DN09HRM, BW57 BOW, KT17DLX, SG18 HTN] list created
+2020-07-04 15:41:29 INFO  TestFreeCarCheck:44 - Browser launched with carTaxCheck URL
+2020-07-04 15:41:30 INFO  TestFreeCarCheck:70 - [, BMW, 320D Se, Black, 2009]
+2020-07-04 15:41:30 INFO  TestFreeCarCheck:44 - Browser launched with carTaxCheck URL
+2020-07-04 15:41:31 INFO  TestFreeCarCheck:70 - [, , , , ]
+2020-07-04 15:41:32 INFO  TestFreeCarCheck:44 - Browser launched with carTaxCheck URL
+2020-07-04 15:41:32 INFO  TestFreeCarCheck:70 - [KT17DLX, Skoda, Superb Sportline Tdi S-A, White, 2017]
+2020-07-04 15:41:33 INFO  TestFreeCarCheck:44 - Browser launched with carTaxCheck URL
+2020-07-04 15:41:34 INFO  TestFreeCarCheck:70 - [SG18HTN, Volkswagen, Golf Se Navigation Tsi Evo, White, 2018]
+2020-07-04 15:44:11 INFO  TestFreeCarCheck:29 - Running firefox webdriver with Driver Path:- src/test/resources/drivers/geckodriver.exe
+2020-07-04 15:44:16 INFO  ReadVehicleRegNum:51 - Regnum [DN09HRM, BW57 BOW, KT17DLX, SG18 HTN] list created
+2020-07-04 15:44:16 INFO  TestFreeCarCheck:44 - Browser launched with carTaxCheck URL
+2020-07-04 15:44:17 INFO  TestFreeCarCheck:72 - [DN09HRM, BMW, 320D Se, Black, 2009]
+2020-07-04 15:44:18 INFO  TestFreeCarCheck:44 - Browser launched with carTaxCheck URL
+2020-07-04 15:45:54 INFO  TestFreeCarCheck:29 - Running firefox webdriver with Driver Path:- src/test/resources/drivers/geckodriver.exe
+2020-07-04 15:45:58 INFO  ReadVehicleRegNum:51 - Regnum [DN09HRM, BW57 BOW, KT17DLX, SG18 HTN] list created
+2020-07-04 15:45:59 INFO  TestFreeCarCheck:44 - Browser launched with carTaxCheck URL
+2020-07-04 15:48:43 INFO  TestFreeCarCheck:29 - Running firefox webdriver with Driver Path:- src/test/resources/drivers/geckodriver.exe
+2020-07-04 15:48:51 INFO  ReadVehicleRegNum:51 - Regnum [DN09HRM, BW57 BOW, KT17DLX, SG18 HTN] list created
+2020-07-04 15:48:57 INFO  TestFreeCarCheck:44 - Browser launched with carTaxCheck URL
+2020-07-04 15:50:25 INFO  TestFreeCarCheck:29 - Running firefox webdriver with Driver Path:- src/test/resources/drivers/geckodriver.exe
+2020-07-04 15:50:29 INFO  ReadVehicleRegNum:51 - Regnum [DN09HRM, BW57 BOW, KT17DLX, SG18 HTN] list created
+2020-07-04 15:50:30 INFO  TestFreeCarCheck:44 - Browser launched with carTaxCheck URL
+2020-07-04 15:50:31 INFO  TestFreeCarCheck:70 - [DN09HRM, BMW, 320D Se, Black, 2009]
+2020-07-04 15:50:31 INFO  TestFreeCarCheck:44 - Browser launched with carTaxCheck URL
+2020-07-04 15:50:32 INFO  TestFreeCarCheck:70 - [, , , , ]
+2020-07-04 15:50:33 INFO  TestFreeCarCheck:44 - Browser launched with carTaxCheck URL
+2020-07-04 15:50:34 INFO  TestFreeCarCheck:70 - [, Skoda, Superb Sportline Tdi S-A, White, 2017]
+2020-07-04 15:50:34 INFO  TestFreeCarCheck:44 - Browser launched with carTaxCheck URL
+2020-07-04 15:50:35 INFO  TestFreeCarCheck:70 - [, Volkswagen, Golf Se Navigation Tsi Evo, White, 2018]
+2020-07-04 15:51:48 INFO  TestFreeCarCheck:29 - Running firefox webdriver with Driver Path:- src/test/resources/drivers/geckodriver.exe
+2020-07-04 15:51:53 INFO  ReadVehicleRegNum:51 - Regnum [DN09HRM, BW57 BOW, KT17DLX, SG18 HTN] list created
+2020-07-04 15:51:54 INFO  TestFreeCarCheck:44 - Browser launched with carTaxCheck URL
+2020-07-04 15:51:55 INFO  TestFreeCarCheck:70 - [, BMW, 320D Se, Black, 2009]
+2020-07-04 15:51:55 INFO  TestFreeCarCheck:44 - Browser launched with carTaxCheck URL
+2020-07-04 15:51:56 INFO  TestFreeCarCheck:70 - [, , , , ]
+2020-07-04 15:51:56 INFO  TestFreeCarCheck:44 - Browser launched with carTaxCheck URL
+2020-07-04 15:51:57 INFO  TestFreeCarCheck:70 - [, Skoda, Superb Sportline Tdi S-A, White, 2017]
+2020-07-04 15:51:57 INFO  TestFreeCarCheck:44 - Browser launched with carTaxCheck URL
+2020-07-04 15:53:16 INFO  TestFreeCarCheck:29 - Running firefox webdriver with Driver Path:- src/test/resources/drivers/geckodriver.exe
+2020-07-04 15:53:20 INFO  ReadVehicleRegNum:51 - Regnum [DN09HRM, BW57 BOW, KT17DLX, SG18 HTN] list created
+2020-07-04 15:53:21 INFO  TestFreeCarCheck:44 - Browser launched with carTaxCheck URL
+2020-07-04 15:53:22 INFO  TestFreeCarCheck:70 - [DN09HRM, BMW, 320D Se, Black, 2009]
+2020-07-04 15:53:22 INFO  TestFreeCarCheck:44 - Browser launched with carTaxCheck URL
+2020-07-04 15:53:23 INFO  TestFreeCarCheck:70 - [, , , , ]
+2020-07-04 15:53:23 INFO  TestFreeCarCheck:44 - Browser launched with carTaxCheck URL
+2020-07-04 15:53:24 INFO  TestFreeCarCheck:70 - [KT17DLX, Skoda, Superb Sportline Tdi S-A, White, 2017]
+2020-07-04 15:53:24 INFO  TestFreeCarCheck:44 - Browser launched with carTaxCheck URL
+2020-07-04 15:53:25 INFO  TestFreeCarCheck:70 - [, Volkswagen, Golf Se Navigation Tsi Evo, White, 2018]
+2020-07-04 15:54:09 INFO  TestFreeCarCheck:29 - Running firefox webdriver with Driver Path:- src/test/resources/drivers/geckodriver.exe
+2020-07-04 15:54:14 INFO  ReadVehicleRegNum:51 - Regnum [DN09HRM, BW57 BOW, KT17DLX, SG18 HTN] list created
+2020-07-04 15:54:15 INFO  TestFreeCarCheck:44 - Browser launched with carTaxCheck URL
+2020-07-04 15:54:16 INFO  TestFreeCarCheck:70 - [DN09HRM, BMW, 320D Se, Black, 2009]
+2020-07-04 15:54:16 INFO  TestFreeCarCheck:44 - Browser launched with carTaxCheck URL
+2020-07-04 15:54:17 INFO  TestFreeCarCheck:70 - [BW57 BOW, , , , ]
+2020-07-04 15:54:17 INFO  TestFreeCarCheck:44 - Browser launched with carTaxCheck URL
+2020-07-04 15:54:18 INFO  TestFreeCarCheck:70 - [KT17DLX, Skoda, Superb Sportline Tdi S-A, White, 2017]
+2020-07-04 15:54:18 INFO  TestFreeCarCheck:44 - Browser launched with carTaxCheck URL
+2020-07-04 15:54:19 INFO  TestFreeCarCheck:70 - [SG18 HTN, Volkswagen, Golf Se Navigation Tsi Evo, White, 2018]
+2020-07-04 15:58:58 INFO  TestFreeCarCheck:30 - Running firefox webdriver with Driver Path:- src/test/resources/drivers/geckodriver.exe
+2020-07-04 15:59:02 INFO  ReadVehicleRegNum:51 - Regnum [DN09HRM, BW57 BOW, KT17DLX, SG18 HTN] list created
+2020-07-04 15:59:02 INFO  ReadVehicleRegNum:30 - SG18HTN	
+2020-07-04 15:59:02 INFO  ReadVehicleRegNum:30 - Volkswagen	
+2020-07-04 15:59:02 INFO  ReadVehicleRegNum:30 - Golf Se Navigation Tsi Evo	
+2020-07-04 15:59:02 INFO  ReadVehicleRegNum:30 - White	
+2020-07-04 15:59:02 INFO  ReadVehicleRegNum:30 - 2018	
+2020-07-04 15:59:02 INFO  ReadVehicleRegNum:30 - DN09HRM	
+2020-07-04 15:59:02 INFO  ReadVehicleRegNum:30 - BMW	
+2020-07-04 15:59:02 INFO  ReadVehicleRegNum:30 - 320D Se	
+2020-07-04 15:59:02 INFO  ReadVehicleRegNum:30 - Black	
+2020-07-04 15:59:02 INFO  ReadVehicleRegNum:30 - 2009	
+2020-07-04 15:59:02 INFO  ReadVehicleRegNum:30 - BW57BOF	
+2020-07-04 15:59:02 INFO  ReadVehicleRegNum:30 - Toyota	
+2020-07-04 15:59:02 INFO  ReadVehicleRegNum:30 - Yaris T2	
+2020-07-04 15:59:02 INFO  ReadVehicleRegNum:30 - Black	
+2020-07-04 15:59:02 INFO  ReadVehicleRegNum:30 - 2010	
+2020-07-04 15:59:02 INFO  ReadVehicleRegNum:30 - KT17DLX	
+2020-07-04 15:59:02 INFO  ReadVehicleRegNum:30 - Skoda	
+2020-07-04 15:59:02 INFO  ReadVehicleRegNum:30 - Superb Sportline Tdi S-A	
+2020-07-04 15:59:02 INFO  ReadVehicleRegNum:30 - White	
+2020-07-04 15:59:02 INFO  ReadVehicleRegNum:30 - 2017	
+2020-07-04 15:59:03 INFO  TestFreeCarCheck:46 - Browser launched with carTaxCheck URL
+2020-07-04 15:59:04 INFO  TestFreeCarCheck:72 - [DN09HRM, BMW, 320D Se, Black, 2009]
+2020-07-04 15:59:04 INFO  TestFreeCarCheck:77 - DN09HRM details are inaccurate
+2020-07-04 15:59:04 INFO  TestFreeCarCheck:46 - Browser launched with carTaxCheck URL
+2020-07-04 15:59:05 INFO  TestFreeCarCheck:72 - [BW57 BOW, , , , ]
+2020-07-04 15:59:05 INFO  TestFreeCarCheck:77 - BW57 BOW details are inaccurate
+2020-07-04 15:59:06 INFO  TestFreeCarCheck:46 - Browser launched with carTaxCheck URL
+2020-07-04 15:59:07 INFO  TestFreeCarCheck:72 - [KT17DLX, Skoda, Superb Sportline Tdi S-A, White, 2017]
+2020-07-04 15:59:07 INFO  TestFreeCarCheck:77 - KT17DLX details are inaccurate
+2020-07-04 15:59:07 INFO  TestFreeCarCheck:46 - Browser launched with carTaxCheck URL
+2020-07-04 15:59:08 INFO  TestFreeCarCheck:72 - [SG18 HTN, Volkswagen, Golf Se Navigation Tsi Evo, White, 2018]
+2020-07-04 15:59:08 INFO  TestFreeCarCheck:77 - SG18 HTN details are inaccurate
+2020-07-04 15:59:46 INFO  TestFreeCarCheck:30 - Running firefox webdriver with Driver Path:- src/test/resources/drivers/geckodriver.exe
+2020-07-04 15:59:50 INFO  ReadVehicleRegNum:51 - Regnum [DN09HRM, BW57 BOW, KT17DLX, SG18 HTN] list created
+2020-07-04 15:59:50 INFO  ReadVehicleRegNum:30 - SG18HTN	
+2020-07-04 15:59:50 INFO  ReadVehicleRegNum:30 - Volkswagen	
+2020-07-04 15:59:50 INFO  ReadVehicleRegNum:30 - Golf Se Navigation Tsi Evo	
+2020-07-04 15:59:50 INFO  ReadVehicleRegNum:30 - White	
+2020-07-04 15:59:50 INFO  ReadVehicleRegNum:30 - 2018	
+2020-07-04 15:59:50 INFO  ReadVehicleRegNum:30 - DN09HRM	
+2020-07-04 15:59:50 INFO  ReadVehicleRegNum:30 - BMW	
+2020-07-04 15:59:50 INFO  ReadVehicleRegNum:30 - 320D Se	
+2020-07-04 15:59:50 INFO  ReadVehicleRegNum:30 - Black	
+2020-07-04 15:59:50 INFO  ReadVehicleRegNum:30 - 2009	
+2020-07-04 15:59:50 INFO  ReadVehicleRegNum:30 - BW57BOF	
+2020-07-04 15:59:50 INFO  ReadVehicleRegNum:30 - Toyota	
+2020-07-04 15:59:50 INFO  ReadVehicleRegNum:30 - Yaris T2	
+2020-07-04 15:59:50 INFO  ReadVehicleRegNum:30 - Black	
+2020-07-04 15:59:50 INFO  ReadVehicleRegNum:30 - 2010	
+2020-07-04 15:59:50 INFO  ReadVehicleRegNum:30 - KT17DLX	
+2020-07-04 15:59:50 INFO  ReadVehicleRegNum:30 - Skoda	
+2020-07-04 15:59:50 INFO  ReadVehicleRegNum:30 - Superb Sportline Tdi S-A	
+2020-07-04 15:59:50 INFO  ReadVehicleRegNum:30 - White	
+2020-07-04 15:59:50 INFO  ReadVehicleRegNum:30 - 2017	
+2020-07-04 15:59:51 INFO  TestFreeCarCheck:46 - Browser launched with carTaxCheck URL
+2020-07-04 15:59:52 INFO  TestFreeCarCheck:72 - [DN09HRM, BMW, 320D Se, Black, 2009]
+2020-07-04 15:59:52 INFO  TestFreeCarCheck:77 - DN09HRM details are inaccurate
+2020-07-04 15:59:52 INFO  TestFreeCarCheck:46 - Browser launched with carTaxCheck URL
+2020-07-04 15:59:53 INFO  TestFreeCarCheck:72 - [BW57 BOW, , , , ]
+2020-07-04 15:59:53 INFO  TestFreeCarCheck:77 - BW57 BOW details are inaccurate
+2020-07-04 15:59:54 INFO  TestFreeCarCheck:46 - Browser launched with carTaxCheck URL
+2020-07-04 15:59:55 INFO  TestFreeCarCheck:72 - [KT17DLX, Skoda, Superb Sportline Tdi S-A, White, 2017]
+2020-07-04 15:59:55 INFO  TestFreeCarCheck:77 - KT17DLX details are inaccurate
+2020-07-04 15:59:55 INFO  TestFreeCarCheck:46 - Browser launched with carTaxCheck URL
+2020-07-04 15:59:56 INFO  TestFreeCarCheck:72 - [SG18 HTN, Volkswagen, Golf Se Navigation Tsi Evo, White, 2018]
+2020-07-04 15:59:56 INFO  TestFreeCarCheck:77 - SG18 HTN details are inaccurate
+2020-07-04 16:01:12 INFO  TestFreeCarCheck:30 - Running firefox webdriver with Driver Path:- src/test/resources/drivers/geckodriver.exe
+2020-07-04 16:01:16 INFO  ReadVehicleRegNum:51 - Regnum [DN09HRM, BW57 BOW, KT17DLX, SG18 HTN] list created
+2020-07-04 16:01:16 INFO  ReadVehicleRegNum:30 - SG18HTN	
+2020-07-04 16:01:16 INFO  ReadVehicleRegNum:30 - Volkswagen	
+2020-07-04 16:01:16 INFO  ReadVehicleRegNum:30 - Golf Se Navigation Tsi Evo	
+2020-07-04 16:01:16 INFO  ReadVehicleRegNum:30 - White	
+2020-07-04 16:01:16 INFO  ReadVehicleRegNum:30 - 2018	
+2020-07-04 16:01:16 INFO  ReadVehicleRegNum:30 - DN09HRM	
+2020-07-04 16:01:16 INFO  ReadVehicleRegNum:30 - BMW	
+2020-07-04 16:01:16 INFO  ReadVehicleRegNum:30 - 320D Se	
+2020-07-04 16:01:16 INFO  ReadVehicleRegNum:30 - Black	
+2020-07-04 16:01:16 INFO  ReadVehicleRegNum:30 - 2009	
+2020-07-04 16:01:16 INFO  ReadVehicleRegNum:30 - BW57BOF	
+2020-07-04 16:01:16 INFO  ReadVehicleRegNum:30 - Toyota	
+2020-07-04 16:01:16 INFO  ReadVehicleRegNum:30 - Yaris T2	
+2020-07-04 16:01:16 INFO  ReadVehicleRegNum:30 - Black	
+2020-07-04 16:01:16 INFO  ReadVehicleRegNum:30 - 2010	
+2020-07-04 16:01:16 INFO  ReadVehicleRegNum:30 - KT17DLX	
+2020-07-04 16:01:16 INFO  ReadVehicleRegNum:30 - Skoda	
+2020-07-04 16:01:16 INFO  ReadVehicleRegNum:30 - Superb Sportline Tdi S-A	
+2020-07-04 16:01:16 INFO  ReadVehicleRegNum:30 - White	
+2020-07-04 16:01:16 INFO  ReadVehicleRegNum:30 - 2017	
+2020-07-04 16:01:17 INFO  TestFreeCarCheck:46 - Browser launched with carTaxCheck URL
+2020-07-04 16:01:18 INFO  TestFreeCarCheck:72 - [DN09HRM, BMW, 320D Se, Black, 2009]
+2020-07-04 16:01:18 INFO  TestFreeCarCheck:77 - DN09HRM details are inaccurate
+2020-07-04 16:01:18 INFO  TestFreeCarCheck:46 - Browser launched with carTaxCheck URL
+2020-07-04 16:01:19 INFO  TestFreeCarCheck:72 - [BW57 BOW, , , , ]
+2020-07-04 16:01:19 INFO  TestFreeCarCheck:77 - BW57 BOW details are inaccurate
+2020-07-04 16:01:19 INFO  TestFreeCarCheck:46 - Browser launched with carTaxCheck URL
+2020-07-04 16:01:20 INFO  TestFreeCarCheck:72 - [KT17DLX, Skoda, Superb Sportline Tdi S-A, White, 2017]
+2020-07-04 16:01:20 INFO  TestFreeCarCheck:77 - KT17DLX details are inaccurate
+2020-07-04 16:01:20 INFO  TestFreeCarCheck:46 - Browser launched with carTaxCheck URL
