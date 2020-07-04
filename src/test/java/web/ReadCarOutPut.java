@@ -9,6 +9,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
@@ -16,14 +17,14 @@ public class ReadCarOutPut {
 
     private static final Logger logger = LoggerFactory.getLogger(ReadVehicleRegNum.class);
 
-    public static List<String[]> carOutPutData() throws IOException {
+    public static ArrayList<String[]> carOutPutData() throws IOException {
 
         FileReader fileReader = new FileReader("src/test/resources/testData/car_output.txt");
         CSVReader csvReader = new CSVReaderBuilder(fileReader)
                                     .withSkipLines(1)
                                     .build();
 
-        List<String[]> allData = csvReader.readAll();
+        ArrayList<String[]> allData = (ArrayList<String[]>) csvReader.readAll();
 
         for (String[] row: allData) {
             for (String cell : row) {

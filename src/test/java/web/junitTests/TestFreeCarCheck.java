@@ -15,6 +15,7 @@ import org.slf4j.Logger;
 
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 
@@ -36,8 +37,8 @@ public class TestFreeCarCheck {
     @Test
     public void freeCarCheck() throws IOException {
 
-       List<String> regNum = ReadVehicleRegNum.regNumList();
-       List<String[]> outputData = ReadCarOutPut.carOutPutData();
+       ArrayList<String> regNum = ReadVehicleRegNum.regNumList();
+       ArrayList<String[]> outputData = ReadCarOutPut.carOutPutData();
 
        for (String reg : regNum) {
 
@@ -52,10 +53,10 @@ public class TestFreeCarCheck {
 
            VehicleIdentityPage vehicleIdentityPage = PageFactory.initElements(driver, VehicleIdentityPage.class);
 
-           List<String> carDetails = new ArrayList<String>();
+           ArrayList<String> carDetails = new ArrayList<String>();
 
-           vehicleIdentityPage.registration.getText();
-           carDetails.add(reg);
+           String registrationText = vehicleIdentityPage.registration.getText();
+           carDetails.add(registrationText);
 
            String make = vehicleIdentityPage.make.getText();
            carDetails.add(make);
@@ -69,18 +70,22 @@ public class TestFreeCarCheck {
            String year = vehicleIdentityPage.year.getText();
            carDetails.add(year);
 
-           logger.info(String.valueOf(carDetails));
+           for (String[] carOutputData: outputData) {
 
-           if(carDetails.contains(outputData)) {
-               logger.info(reg + " details are accurate");
-           } else {
-               logger.info(reg + " details are inaccurate");
+               if(String.valueOf(carDetails).contains(Arrays.toString(carOutputData))){
+                   logger.info(Arrays.toString(carOutputData));
+                   logger.info("Car Details are accurate");
+               }
+
            }
 
        }
 
+    }
 
-
+    @AfterClass
+    public static void closeBrowser() {
+        driver.close();
 
     }
 

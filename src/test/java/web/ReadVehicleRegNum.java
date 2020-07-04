@@ -15,12 +15,12 @@ public class ReadVehicleRegNum {
 
     private static final Logger logger = LoggerFactory.getLogger(ReadVehicleRegNum.class);
 
-    public static List<String> regNumList() throws IOException {
+    public static ArrayList<String> regNumList() throws IOException {
 
         File myObj = new File("src/test/resources/testData/car_input.txt");
         String data = "";
 
-        List<String> regNum = new ArrayList<String>();
+        ArrayList<String> regNum = new ArrayList<String>();
 
         Scanner myReader = new Scanner(myObj);
         while (myReader.hasNextLine()) {
